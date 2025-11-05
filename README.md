@@ -26,8 +26,10 @@ If you have a screenshot of your console, save it in an `images` folder and refe
 ![Game Screenshot](images/screenshot.png)
 Otherwise, here’s a text example 👇
 
-sql
-Kodu kopyala
+git add README.md
+git commit -m "Added README.md"
+git push
+
    1 2 3 4 5
   ------------
 1 | . . . . .
