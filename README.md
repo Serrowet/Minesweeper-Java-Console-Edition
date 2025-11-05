@@ -42,8 +42,7 @@ Enter row and column: 3 4
 🧠 How to Play
 Compile and run the game:
 
-bash
-Kodu kopyala
+
 javac Main.java
 java Main
 Enter the row and column number to reveal a cell.
